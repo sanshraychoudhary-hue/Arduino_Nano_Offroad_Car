@@ -1,6 +1,5 @@
 /*
  * Project: Offroad Bluetooth Car
- * Author: [Your Name], USICT
  * Hardware: Arduino Nano, L298N, HC-05
  * Description: Bluetooth controlled car with Speed/Torque toggling.
  */
