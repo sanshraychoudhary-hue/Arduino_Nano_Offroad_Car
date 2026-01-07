@@ -80,5 +80,5 @@ MIT License
 
 ## 👤 Author
 
-**[Your Name]**
+**Sanshray Choudhary**
 *University School of Information, Communication & Technology (USICT)*
